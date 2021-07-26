@@ -1,0 +1,43 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+.btn
+{
+  border-radius: 38px;
+  color: #fff;
+  font-size: 20px;
+  background: #FF5200;
+  padding: 10px 30px 10px 30px;
+  font-family: 'Roboto', sans-serif;
+  border-color:#fff;
+  letter-spacing: 3px;
+  margin-top: 40px;
+}
+
+body {
+  background-color: #334257;
+  font-family: 'Bebas Neue', cursive;
+}
+
+h1 {
+  margin: 30px;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #EEEEEE;
+}
+
+p {
+  font-size: 2rem;
+  color: #EEEEEE;
+}
+img {
+  width: 80%;
+}
